@@ -18,3 +18,6 @@ To run the project locally, follow these steps:
    ```sh
    git clone https://github.com/your-repo/obsidian-to-jira-converter.git
    cd obsidian-to-jira-converter
+
+2. or look at the demo:
+https://osinpaul.github.io/obsidian-to-jira-markdown-converter
